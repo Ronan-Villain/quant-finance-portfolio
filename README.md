@@ -1,15 +1,15 @@
 # Quantitative Finance Portfolio
 
-This repository contains a collection of quantitative finance projects
-focused on derivatives pricing, numerical methods, and interest rate modeling.
+This repository contains a structured set of quantitative finance projects
+implemented in Python, with a focus on pricing, numerical methods,
+and market conventions.
 
-## Projects
-1. Black–Scholes pricing and Greeks
-2. Monte Carlo option pricing
-3. Implied volatility and volatility smile
-4. Interest rate models (Vasicek, CIR)
-
-## Philosophy
-- From theory to implementation
-- Focus on numerical stability and model assumptions
-- Clean and reproducible code
+## Topics covered
+- Yield curve construction (OIS, IBOR, multi-curve)
+- Interest rate instruments (bonds, swaps, caps/floors)
+- Option pricing and implied volatility
+- Greeks and risk management
+- Monte Carlo methods
+- Exotic options
+- Model calibration (SABR, Heston)
+- Pricing library (capstone project)
